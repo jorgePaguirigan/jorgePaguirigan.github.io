@@ -262,4 +262,43 @@ h1 {
     display: block;
 }
 
+/* FOOTER */
+footer {
+    background: #111;
+    border-top: 1px solid #333;
+    padding: 48px 38px 25px;
+}
+
+.footer-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 38px;
+    margin-bottom: 32px;
+}
+
+h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    color: #ffffff;
+    margin-bottom: 11px;
+}
+
+footer p {
+    font-size: 13px;
+    color: #737373;
+    line-height: 1.9;
+    }
+    
+footer a {
+    font-size: 13px;
+    color: #737373;
+}
+
+footer a:hover {
+    color: #e50914;
+}
+
 
