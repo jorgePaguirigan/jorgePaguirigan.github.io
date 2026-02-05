@@ -2,12 +2,12 @@
 
 Jorge Paguirigan's Portfolio 
 
-A single-page static website that includes a few things about me. These include:
-    1. quick about me
-    2. management skills
-    3. tech stack
-    4. past projects
-    5. my contacts
+A single-page static website that includes a few things about me. These include: <br>
+    1. quick about me <br>
+    2. management skills <br>
+    3. tech stack <br>
+    4. past projects <br>
+    5. my contacts <br>
 
 
 
