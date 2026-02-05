@@ -107,3 +107,67 @@ h1 {
     stroke-width: 1.4;
 }
 
+/* SECTION */
+.section {
+    width: 960px;
+    margin: 0 auto;
+    padding: 48px 24px;
+}
+
+.section-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 2.5px;
+    color: #e50914;
+}
+
+.section h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 32px;
+    letter-spacing: 1.5px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+/* SKILLS */
+.skills-grid {
+    display: flex;
+    gap: 22px;
+}
+
+.skill-card {
+    flex: 1;
+    background: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 10px;
+    padding: 28px;
+}
+
+.skill-card h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 19px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.skill-card ul {
+    margin-bottom: 19px;
+}
+
+
+
+.skill-card li {
+    padding-left: 16px;
+    color: #b3b3b3;
+    font-size: 14px;
+    margin-bottom: 6px;
+    position: relative;
+}
+
+.skill-card ul li::marker{
+    color: red;
+}
+
